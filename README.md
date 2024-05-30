@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou João Rebouças</h1>
 <h3 align="center">Sou um engenheiro de software muito foda!</h3>
 
-- 🔭 Atualmente trabalho na [ProconPH](https://mrv.proconph.com.br/login)
+- 🔭 Atualmente trabalho na [Pasquali Solution](https://www.pasqualisolution.com.br/)
 
 - 🌱 Atualmente estou estudando sobre **CyberSegurança**
 
-- 👯 sou sócio da [DIOS Watch](https://www.doitlabs.com.br/)
+- 👯 sou sócio da [CrescerBank](https://crescerbank.com.br/site/)
 
 - 🤝 sou integrante da ong [Global Shapers](https://www.globalshapers.org/)
 
